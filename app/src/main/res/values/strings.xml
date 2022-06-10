@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">food App</string>
+    <string name="title">Cool Restaurant</string>
+    <string name="slogan">Hello, welcome to your favorite restaurant</string>
+</resources>
